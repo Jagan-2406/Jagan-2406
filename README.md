@@ -14,7 +14,7 @@
 [![Resume](https://img.shields.io/badge/Resume-EA4335?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1tU37mMLCKWSUaWi4cmNAF1LJnfGgG9d1/view?usp=sharing)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vasujagan382@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Jagan-2406&label=Profile%20Views&color=0A84FF&style=for-the-badge)
+
 
 </div>
 
@@ -79,8 +79,7 @@ I'm a **B.Tech Artificial Intelligence & Data Science** undergraduate building s
 
 ### 🗓️ [Smart Appointment Scheduling System](https://github.com/Jagan-2406)
 `React` `Node.js` `Express` `MongoDB`
-Full-stack MERN platform with role-based auth for Admin, Provider, and Customer roles — cutting scheduling conflicts by an estimated 60% over manual coordination. **🏆 Won 1st prize (₹25,000) at IBM Naan Mudhalvan Hackathon 2026.**
-
+Full-stack MERN platform with role-based auth for Admin, Provider, and Customer roles — cutting scheduling conflicts by an estimated 60% over manual coordination.
 ### 🌍 [Earthquake Awareness AR Application](https://github.com/Jagan-2406)
 `Unity3D` `ARCore` `C#` `Android`
 Augmented reality disaster-preparedness app simulating earthquake scenarios with real-time AR rendering on mobile.
@@ -99,16 +98,10 @@ A modern developer portfolio showcasing projects, achievements, and technical jo
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jagan-2406&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" width="49%" />
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jagan-2406&theme=tokyonight&hide_border=true" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jagan-2406&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 
-</div>
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Jagan-2406&theme=tokyonight&no-frame=true&margin-w=10&row=1)
 
 </div>
 
