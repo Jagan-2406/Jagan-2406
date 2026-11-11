@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A84FF?style=for-the-badge&logo=vercel&logoColor=white)](https://jagan-portfolio-rho.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A84FF?style=for-the-badge&logo=vercel&logoColor=white)](https://jagan-24.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jagan2406)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jagan-2406)
 [![Resume](https://img.shields.io/badge/Resume-EA4335?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1tU37mMLCKWSUaWi4cmNAF1LJnfGgG9d1/view?usp=sharing)
@@ -88,7 +88,7 @@ Augmented reality disaster-preparedness app simulating earthquake scenarios with
 `Python` `Flask` `Open-Tamil` `gTTS` `NLP`
 AI-powered platform generating grammatically correct Tamil sentences and dialogues, covering 50+ grammar patterns with 90%+ voice output accuracy.
 
-### 🌐 [Personal Portfolio](https://jagan-portfolio-rho.vercel.app)
+### 🌐 [Personal Portfolio](https://jagan-24.vercel.app)
 `React` `Full Stack`
 A modern developer portfolio showcasing projects, achievements, and technical journey.
 
